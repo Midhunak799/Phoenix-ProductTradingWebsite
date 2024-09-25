@@ -50,7 +50,7 @@
           </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
-      <a class="home-nav" href="index.html">
+      <a class="home-nav" href="index.php">
         <i class="icon-home"></i>
       </a>
       <div class="curve-top-shape">
@@ -233,13 +233,13 @@
             </div><!-- /.row -->
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-                <nav class="pagination-area">
+                <!-- <nav class="pagination-area">
                   <ul class="pagination justify-content-center mb-0">
                     <li><a class="current" href="#">1</a></li>
                     <li><a href="#">2</a></li>
                     <li><a href="#"><i class="icon-arrow-right"></i></a></li>
                   </ul>
-                </nav><!-- /.pagination-area -->
+                </nav> -->
               </div><!-- /.col-lg-12 -->
             </div><!-- /.row -->
           </div><!-- /.col-lg-9 -->
