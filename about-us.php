@@ -436,7 +436,7 @@
               <h3>Would you like us to send you a quote?</h3>
               <p>
                 Click the button, fill out the form and we’ll be right with you!</p>
-              <a href="contact-us.php">Learn More</a>
+              <a href="contact-us.php" style="background-color: white;">Contact us</a>
             </div>
             <div class="demo-image">
               <img src="assets/images/banners/dis1.png" alt="Demo Image">
