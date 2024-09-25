@@ -11,7 +11,7 @@
           <div class="row">
             <div class="col-12 col-lg-3">
               <div class="footer-widget-about">
-                <img src="assets/images/logo/mainlogo.png" alt="logo"><br><br>
+                <img style="background-color: white;" src="assets/images/logo/mainlogo3.png" alt="logo"><br><br>
 
                 <p style="text-align:justify; color: white;">Phoenix Trading Co. LLC, established in the year 1979, is an ISO 9001-2015 certified company and is
                   the
@@ -64,9 +64,9 @@
                 <h6 class="footer-widget-title">Address</h6>
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="about-us.php">Head Office: Offices Land Building, Block 1, Office # 101, Karama,
+                    <li><a href="about-us.php"><span  style="font-weight: bolder;">Head Office:</span> 
                         Dubai, U.A.E</a></li>
-                    <li><a href="">Warehouse: Al Jurf Ind. Area 1, opp. China Mall, Ajman</a></li>
+                    <li><a href=""><span style="font-weight: bolder;">Branch Office:</span>AL Karama, Dubai</a></li>
                     <!-- <li><a href="blog.html">News & Media</a></li>
                     <li><a href="services.html">Sustainability</a></li>
                     <li><a href="careers.html">Careers</a></li> -->
@@ -90,13 +90,13 @@
                   <li>
                     <p>Send Us Email:</p>
                     <a href="mailto:chemlabs@7oroof.com">
-                      <i class="contact-icon icon-email"></i> <span>chemlabs@7oroof.com</span>
+                      <i class="contact-icon icon-email"></i> <span> info@phoenic-me.com</span>
                     </a>
                   </li>
                   <li>
                     <p>Call Us Today:</p>
                     <a href="tel:00201061245741">
-                      <i class="contact-icon icon-phone"></i> <span>(002) 01061245741</span>
+                      <i class="contact-icon icon-phone"></i> <span>+971 433667896</span>
                     </a>
                   </li>
                 </ul>
