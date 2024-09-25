@@ -60,7 +60,7 @@
               <div id="contact-collapse2" class="collapse" data-bs-parent="#accordion">
                 <div class="accordion-body">
                   <ul class="contact-list list-unstyled mb-0">
-                    <li>Phone: +97 1433667896 </li>
+                    <li>Phone: +971 433667896 </li>
                     <!-- <li>Email: Chemlabs@7oroof.com</li>
                     <li>Address: 2307 Beverley Rd Brooklyn, NY</li>
                     <li>Hours: Mon-Fri: 8am – 7pm</li> -->
@@ -163,7 +163,7 @@
                       name="contact-message"></textarea>
                   </div>
                   <button type="submit" class="btn btn-primary btn-block btn-xhight mt-10">
-                    <span>Submit</span> <i class="icon-arrow-right"></i>
+                    <span>Submit</i>
                   </button>
                   <div class="contact-result"></div>
                 </div><!-- /.col-lg-12 -->
